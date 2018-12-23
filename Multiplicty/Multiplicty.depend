@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543140491 source:/home/shrish/Desktop/C++ Codein Examples/Multiplicty/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
